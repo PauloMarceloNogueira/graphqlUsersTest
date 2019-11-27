@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Paulo Marcelo",
+      "email": "pmnogueira@stefanini.com",
+      "permission": "ADMIN"
+    },
+    {
+      "id": 2,
+      "name": "José da Silva",
+      "email": "jdsilva@stefanini.com",
+      "permission": "USER"
+    },
+    {
+      "id": 3,
+      "name": "Fulano Tal",
+      "email": "fdt@stefanini.com",
+      "permission": "USER"
+    },
+    {
+      "name": "Fran",
+      "email": "fbonia@gmail.com",
+      "permission": "ADMIN",
+      "id": 4
+    },
+    {
+      "name": "PPPP",
+      "email": "dssdsds",
+      "id": 5
+    },
+    {
+      "name": "Vicente",
+      "email": "vcnt@gmail.cmo",
+      "permission": "USER",
+      "id": 6
+    },
+    {
+      "name": "Vicente",
+      "email": "vcnt@gmail.cmo",
+      "permission": "USER",
+      "id": 7
+    }
+  ]
+}
